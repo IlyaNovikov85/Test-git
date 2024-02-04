@@ -11,3 +11,4 @@ git init - ...
 ## Lesson 2
 
 git branch - выводит ветки 
+branch - ветка
