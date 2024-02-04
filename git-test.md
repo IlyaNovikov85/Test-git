@@ -10,5 +10,5 @@ git init - ...
 
 ## Lesson 2
 
-git branch - выводит ветки 
-branch - ветка
+git branch - выводит ветки
+git branch name - создание ветки
