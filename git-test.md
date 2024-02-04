@@ -12,4 +12,4 @@ git init - ...
 
 git branch - выводит ветки
 git branch name - создание ветки
-git hub
+* clear - очистить терминал
